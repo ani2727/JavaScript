@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    /* display:flex;
+    flex-direction: column;
+    justify-content: center; */
+}
+
+.newcolor{
+    border: 1px solid black;
+    height: 150px;
+    width: 500px;
+    margin: auto;
+    color:rgb(226, 23, 44)
+}
